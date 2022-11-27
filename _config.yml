@@ -1,3 +1,5 @@
 title: Exoneration through baye's Theorem
 description: Using Baye's theoroem to have fun 
 theme: jekyll-theme-hacker
+github:
+  is_project_page: false
